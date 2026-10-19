@@ -9,7 +9,7 @@ Founder of **[Otomatic Digital](https://otomaticdigital.com)** in Dublin. I buil
 Most of the businesses I work with grew faster than their systems. Enquiries wait until morning, the same details get typed into three tools, and the Friday report is rebuilt by hand. I map how the work actually runs, then build the system that takes the manual step out.
 
 <p>
-  <a href="https://otomaticdigital.com/contact"><img src="https://img.shields.io/badge/Book_a_Systems_Audit-A9F349?style=for-the-badge&logoColor=black" alt="Book a Systems Audit"></a>
+  <a href="https://otomaticdigital.com/contact"><img src="https://img.shields.io/badge/Book_a_Systems_Audit-A9F349?style=for-the-badge&logoColor=black" alt="Book Systems Audit"></a>
   <a href="https://otomaticdigital.com"><img src="https://img.shields.io/badge/otomaticdigital.com-151515?style=for-the-badge&logo=googlechrome&logoColor=white" alt="otomaticdigital.com"></a>
   <a href="https://www.linkedin.com/in/natan-trolka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hello@otomaticdigital.com"><img src="https://img.shields.io/badge/hello@otomaticdigital.com-151515?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
