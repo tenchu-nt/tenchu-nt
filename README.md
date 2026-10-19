@@ -28,10 +28,10 @@ Most of the businesses I work with grew faster than their systems. Enquiries wai
 ### How a build runs
 
 ```text
-01 Audit      Map the repeated work, the handovers and the decision points as they run today
-02 Roadmap    The highest-value systems, in order, written before any build starts
-03 Build      Fixed scope, tested against the real workflow before it goes live
-04 Run        Monitored after go-live, so it keeps working when the business changes
+01 Audit      Map the repeated work and handovers as they run today
+02 Roadmap    The highest-value systems, in order, before any build
+03 Build      Fixed scope, tested on the real workflow before go-live
+04 Run        Monitored after go-live as the business changes
 ```
 
 ### Recent results
