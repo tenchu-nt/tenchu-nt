@@ -34,11 +34,6 @@ Most of the businesses I work with grew faster than their systems. Enquiries wai
 04 Run        Monitored after go-live as the business changes
 ```
 
-### Recent results
-
-- **Stuntworxelite**, a gymnastics school: sign-ups, rosters and report cards automated. **4 to 5 hours saved every week** and **500 confirmations** sent without anyone touching them.
-- **ARCoach**: a coaching business built from scratch, website and automations included, **live in about 4 weeks**.
-
 [See the case studies →](https://otomaticdigital.com/case-studies)
 
 ### Stack
